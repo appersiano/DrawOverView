@@ -53,8 +53,7 @@ class DrawOver(mContext: Context, attributes: AttributeSet?) : FrameLayout(mCont
     @SuppressLint("ClickableViewAccessibility")
     private fun setup() {
         close.setOnClickListener {
-            ll_root.isVisible = false
-            sketchCanvas.isVisible = false
+            this@DrawOver.visibility = View.GONE
         }
 
         shot.setOnClickListener {

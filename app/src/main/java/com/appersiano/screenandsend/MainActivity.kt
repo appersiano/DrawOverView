@@ -3,6 +3,7 @@ package com.appersiano.screenandsend
 import android.annotation.SuppressLint
 import android.os.Bundle
 import android.view.MotionEvent.*
+import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import com.appersiano.drawover.DrawOver
 import java.util.*
@@ -16,18 +17,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-//        val sensorManager = getSystemService(SENSOR_SERVICE) as SensorManager
-//        val sd = ShakeDetector {
-//            if (showDraw){
-//                showDraw = false
-//                findViewById<View>(R.id.sketchCanvas).isVisible = false
-//                findViewById<View>(R.id.ll_tools).isVisible = false
-//            } else {
-//                showDraw = true
-//                findViewById<View>(R.id.sketchCanvas).isVisible = true
-//                findViewById<View>(R.id.ll_tools).isVisible = true
-//            }
-//        }
-//        sd.start(sensorManager)
+        findViewById<View>(R.id.button)?.setOnClickListener {
+            findViewById<View>(R.id.drawOver).visibility = View.VISIBLE
+        }
     }
 }

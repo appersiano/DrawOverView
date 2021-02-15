@@ -11,67 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="051c78ab-82ac-495f-96be-2131c86cca36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawOver/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawOver/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawOver/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawOver/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawOver/src/androidTest/java/com/appersiano/drawover/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawOver/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawOver/src/main/java/com/appersiano/drawover/DrawOver.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawOver/src/main/java/com/appersiano/drawover/SketchCanvas.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawOver/src/main/res/drawable/ic_baseline_close_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawOver/src/main/res/drawable/ic_baseline_color_lens_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawOver/src/main/res/drawable/ic_baseline_delete_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawOver/src/main/res/drawable/ic_baseline_photo_camera_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawOver/src/main/res/drawable/ic_move.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawOver/src/main/res/layout/layout_drawover.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawOver/src/test/java/com/appersiano/drawover/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/appersiano/screenandsend/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/appersiano/screenandsend/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/appersiano/screenandsend/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DrawOver/src/main/java/com/appersiano/drawover/DrawOver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/DrawOver/src/main/java/com/appersiano/drawover/DrawOver.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/appersiano/screenandsend/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/appersiano/screenandsend/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[dc85c1ff]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -113,10 +63,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="xiaomi-mi_9t-dc85c1ff" />
+    <property name="DEBUGGABLE_PROCESS" value="com.appersiano.screenandsend" />
+    <property name="DEBUGGER_ID" value="Auto" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_30" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-02-13T15:39:32.903Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="android-custom-view/Users/alessandropersiano/AndroidStudioProjects/ScreenAndSend/DrawOver/src/main/java/com/appersiano/drawover/DrawOver.kt_SELECTED" value="DrawOver" />
     <property name="android-custom-view/Users/alessandropersiano/AndroidStudioProjects/ScreenAndSend/DrawOver/src/main/java/com/appersiano/drawover/SketchCanvas.kt_SELECTED" value="SketchCanvas" />
     <property name="android-custom-view/Users/alessandropersiano/AndroidStudioProjects/ScreenAndSend/app/src/main/java/com/appersiano/screenandsend/SketchCanvas.kt_SELECTED" value="SketchCanvas" />
@@ -213,7 +167,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="245afde8-989d-4e25-a363-1ac152061a8f" name="Default Changelist" comment="" />
+      <changelist id="051c78ab-82ac-495f-96be-2131c86cca36" name="Default Changelist" comment="" />
       <created>1612884472751</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -233,13 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613389196385</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge branch 'master' into main&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;.idea/gradle.xml&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/vcs.xml">
+      <created>1613389848528</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613389848528</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Update settings IDE" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update settings IDE" />
+    <MESSAGE value="Merge branch 'master' into main&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;.idea/gradle.xml&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/vcs.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' into main&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;.idea/gradle.xml&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/vcs.xml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="269" key="#PSD" timestamp="1613241506116">
@@ -259,57 +221,70 @@
       <screen x="0" y="25" width="1792" height="1017" />
     </state>
     <state x="484" y="292" key="AndroidCreateResourceFileDialog/0.25.1792.1017@0.25.1792.1017" timestamp="1613240512537" />
-    <state x="665" y="284" key="AndroidProcessChooserDialog" timestamp="1613240504898">
-      <screen x="0" y="25" width="1792" height="1017" />
+    <state x="665" y="285" key="AndroidProcessChooserDialog" timestamp="1613407062845">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state x="665" y="285" key="AndroidProcessChooserDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1613407062845" />
     <state x="665" y="284" key="AndroidProcessChooserDialog/0.25.1792.1017@0.25.1792.1017" timestamp="1613240504898" />
-    <state x="462" y="-1115" key="CommitChangelistDialog2" timestamp="1613389196227">
+    <state x="462" y="-1115" key="CommitChangelistDialog2" timestamp="1613389848386">
       <screen x="-341" y="-1415" width="2560" height="1415" />
     </state>
-    <state x="462" y="-1115" key="CommitChangelistDialog2/-341.-1415.2560.1415/0.25.1792.1017@-341.-1415.2560.1415" timestamp="1613389196227" />
-    <state width="1259" height="364" key="GridCell.Tab.0.bottom" timestamp="1613389656780">
-      <screen x="-341" y="-1415" width="2560" height="1415" />
+    <state x="462" y="-1115" key="CommitChangelistDialog2/-341.-1415.2560.1415/0.25.1792.1017@-341.-1415.2560.1415" timestamp="1613389848386" />
+    <state width="1748" height="318" key="GridCell.Tab.0.bottom" timestamp="1613407132511">
+      <screen x="0" y="25" width="1792" height="1014" />
     </state>
     <state width="1259" height="364" key="GridCell.Tab.0.bottom/-341.-1415.2560.1415/0.25.1792.1017@-341.-1415.2560.1415" timestamp="1613389656779" />
     <state width="1748" height="276" key="GridCell.Tab.0.bottom/-341.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1612951934951" />
-    <state width="1750" height="233" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1612886597977" />
+    <state width="1748" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1613407063179" />
+    <state width="1748" height="318" key="GridCell.Tab.0.bottom/0.25.1792.1014@0.25.1792.1014" timestamp="1613407132511" />
     <state width="874" height="275" key="GridCell.Tab.0.bottom/0.25.1792.1017@0.25.1792.1017" timestamp="1613242799515" />
-    <state width="1259" height="364" key="GridCell.Tab.0.center" timestamp="1613389656778">
-      <screen x="-341" y="-1415" width="2560" height="1415" />
+    <state width="1748" height="318" key="GridCell.Tab.0.center" timestamp="1613407132510">
+      <screen x="0" y="25" width="1792" height="1014" />
     </state>
     <state width="1259" height="364" key="GridCell.Tab.0.center/-341.-1415.2560.1415/0.25.1792.1017@-341.-1415.2560.1415" timestamp="1613389656778" />
     <state width="1748" height="276" key="GridCell.Tab.0.center/-341.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1612951934949" />
-    <state width="1750" height="233" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1612886597976" />
+    <state width="1748" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1613407063177" />
+    <state width="1748" height="318" key="GridCell.Tab.0.center/0.25.1792.1014@0.25.1792.1014" timestamp="1613407132510" />
     <state width="874" height="275" key="GridCell.Tab.0.center/0.25.1792.1017@0.25.1792.1017" timestamp="1613242799514" />
-    <state width="1259" height="364" key="GridCell.Tab.0.left" timestamp="1613389656778">
-      <screen x="-341" y="-1415" width="2560" height="1415" />
+    <state width="1748" height="318" key="GridCell.Tab.0.left" timestamp="1613407132510">
+      <screen x="0" y="25" width="1792" height="1014" />
     </state>
     <state width="1259" height="364" key="GridCell.Tab.0.left/-341.-1415.2560.1415/0.25.1792.1017@-341.-1415.2560.1415" timestamp="1613389656778" />
     <state width="1748" height="276" key="GridCell.Tab.0.left/-341.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1612951934948" />
-    <state width="1750" height="233" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1612886597976" />
+    <state width="1748" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1613407063177" />
+    <state width="1748" height="318" key="GridCell.Tab.0.left/0.25.1792.1014@0.25.1792.1014" timestamp="1613407132510" />
     <state width="874" height="275" key="GridCell.Tab.0.left/0.25.1792.1017@0.25.1792.1017" timestamp="1613242799514" />
-    <state width="1259" height="364" key="GridCell.Tab.0.right" timestamp="1613389656779">
-      <screen x="-341" y="-1415" width="2560" height="1415" />
+    <state width="1748" height="318" key="GridCell.Tab.0.right" timestamp="1613407132511">
+      <screen x="0" y="25" width="1792" height="1014" />
     </state>
     <state width="1259" height="364" key="GridCell.Tab.0.right/-341.-1415.2560.1415/0.25.1792.1017@-341.-1415.2560.1415" timestamp="1613389656779" />
     <state width="1748" height="276" key="GridCell.Tab.0.right/-341.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1612951934950" />
-    <state width="1750" height="233" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1612886597977" />
+    <state width="1748" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1613407063178" />
+    <state width="1748" height="318" key="GridCell.Tab.0.right/0.25.1792.1014@0.25.1792.1014" timestamp="1613407132511" />
     <state width="874" height="275" key="GridCell.Tab.0.right/0.25.1792.1017@0.25.1792.1017" timestamp="1613242799515" />
-    <state width="874" height="275" key="GridCell.Tab.1.bottom" timestamp="1613242799517">
-      <screen x="0" y="25" width="1792" height="1017" />
+    <state width="1748" height="318" key="GridCell.Tab.1.bottom" timestamp="1613407132515">
+      <screen x="0" y="25" width="1792" height="1014" />
     </state>
+    <state width="1748" height="318" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1613407064469" />
+    <state width="1748" height="318" key="GridCell.Tab.1.bottom/0.25.1792.1014@0.25.1792.1014" timestamp="1613407132515" />
     <state width="874" height="275" key="GridCell.Tab.1.bottom/0.25.1792.1017@0.25.1792.1017" timestamp="1613242799517" />
-    <state width="874" height="275" key="GridCell.Tab.1.center" timestamp="1613242799516">
-      <screen x="0" y="25" width="1792" height="1017" />
+    <state width="1748" height="318" key="GridCell.Tab.1.center" timestamp="1613407132512">
+      <screen x="0" y="25" width="1792" height="1014" />
     </state>
+    <state width="1748" height="318" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1613407064467" />
+    <state width="1748" height="318" key="GridCell.Tab.1.center/0.25.1792.1014@0.25.1792.1014" timestamp="1613407132512" />
     <state width="874" height="275" key="GridCell.Tab.1.center/0.25.1792.1017@0.25.1792.1017" timestamp="1613242799516" />
-    <state width="874" height="275" key="GridCell.Tab.1.left" timestamp="1613242799516">
-      <screen x="0" y="25" width="1792" height="1017" />
+    <state width="1748" height="318" key="GridCell.Tab.1.left" timestamp="1613407132512">
+      <screen x="0" y="25" width="1792" height="1014" />
     </state>
+    <state width="1748" height="318" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1613407064467" />
+    <state width="1748" height="318" key="GridCell.Tab.1.left/0.25.1792.1014@0.25.1792.1014" timestamp="1613407132512" />
     <state width="874" height="275" key="GridCell.Tab.1.left/0.25.1792.1017@0.25.1792.1017" timestamp="1613242799516" />
-    <state width="874" height="275" key="GridCell.Tab.1.right" timestamp="1613242799516">
-      <screen x="0" y="25" width="1792" height="1017" />
+    <state width="1748" height="318" key="GridCell.Tab.1.right" timestamp="1613407132514">
+      <screen x="0" y="25" width="1792" height="1014" />
     </state>
+    <state width="1748" height="318" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1613407064468" />
+    <state width="1748" height="318" key="GridCell.Tab.1.right/0.25.1792.1014@0.25.1792.1014" timestamp="1613407132514" />
     <state width="874" height="275" key="GridCell.Tab.1.right/0.25.1792.1017@0.25.1792.1017" timestamp="1613242799516" />
     <state x="222" y="-1128" key="MergeDialog" timestamp="1613389837858">
       <screen x="-341" y="-1415" width="2560" height="1415" />
@@ -323,10 +298,10 @@
       <screen x="-341" y="-1415" width="2560" height="1415" />
     </state>
     <state x="440" y="-1072" key="SettingsEditor/-341.-1415.2560.1415/0.25.1792.1017@-341.-1415.2560.1415" timestamp="1613387504422" />
-    <state x="539" y="-984" key="Vcs.Push.Dialog.v2" timestamp="1613389392055">
+    <state x="539" y="-984" key="Vcs.Push.Dialog.v2" timestamp="1613389850971">
       <screen x="-341" y="-1415" width="2560" height="1415" />
     </state>
-    <state x="539" y="-984" key="Vcs.Push.Dialog.v2/-341.-1415.2560.1415/0.25.1792.1017@-341.-1415.2560.1415" timestamp="1613389392055" />
+    <state x="539" y="-984" key="Vcs.Push.Dialog.v2/-341.-1415.2560.1415/0.25.1792.1017@-341.-1415.2560.1415" timestamp="1613389850971" />
     <state x="583" y="183" key="psd.add.module.dependency.panel.dimension" timestamp="1613241504535">
       <screen x="0" y="25" width="1792" height="1017" />
     </state>
@@ -344,6 +319,11 @@
           <url>file://$PROJECT_DIR$/DrawOver/src/main/java/com/appersiano/drawover/DrawOver.kt</url>
           <line>54</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/appersiano/screenandsend/MainActivity.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
