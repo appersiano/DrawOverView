@@ -1,7 +1,6 @@
 package com.appersiano.drawover
 
 import android.annotation.SuppressLint
-import android.app.Activity
 import android.content.Context
 import android.content.Intent
 import android.content.res.ColorStateList
@@ -25,7 +24,7 @@ import java.util.*
  * DrawOver is a Compound View that display a big drawable view via user input with a small toolbar
  * with some additional functionalities
  */
-class DrawOver(mContext: Context, attributes: AttributeSet?) : FrameLayout(mContext, attributes) {
+class DrawOverView(mContext: Context, attributes: AttributeSet?) : FrameLayout(mContext, attributes) {
 
     private val ll_root: LinearLayout
     private val shot: ImageButton
@@ -53,7 +52,7 @@ class DrawOver(mContext: Context, attributes: AttributeSet?) : FrameLayout(mCont
     @SuppressLint("ClickableViewAccessibility")
     private fun setup() {
         close.setOnClickListener {
-            this@DrawOver.visibility = View.GONE
+            this@DrawOverView.visibility = View.GONE
         }
 
         shot.setOnClickListener {

@@ -2,11 +2,8 @@ package com.appersiano.screenandsend
 
 import android.annotation.SuppressLint
 import android.os.Bundle
-import android.view.MotionEvent.*
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
-import com.appersiano.drawover.DrawOver
-import java.util.*
 
 
 class MainActivity : AppCompatActivity() {
