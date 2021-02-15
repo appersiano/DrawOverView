@@ -1,0 +1,3 @@
+include ':DrawOver'
+include ':app'
+rootProject.name = "ScreenAndSend"
