@@ -10,5 +10,9 @@ I am currently working on an app that is checked by the customer. Usually we rec
 So with DrawOverView funcionalities the customer can draw and let us know the exatcly wrong piece of UI and open directly a task with the screenshot attached (JIRA)
 
 ## Contribute
-The custom view is very simple and missing a lot of features, if you want add something (like change the size of the line =) ) feeel free to fork and submit a pull request!
+The custom view is very simple and missing a lot of features, if you want add something (like change the size of the line =) ) feel free to fork and submit a pull request!
+
+## Preview
+<img src="preview_draw_over_view.gif" width="300"/>
+
 
